@@ -87,6 +87,3 @@ Las características de accesibilidad forman parte de las decisiones de diseño 
 
 **Fecha:** 17 de noviembre de 2026
 
-## Trabajo colaborativo
-
-El repositorio permite registrar los avances del proyecto, mantener versiones del informe y organizar las evidencias del proceso de diseño y prototipado.
